@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(245, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.navbar{
+    padding-left: 50px;
+
+}
+
+.quemsomos{
+    color: brown;
+}
+
+.margin {
+    color: rgb(36, 30, 29);
+    background-color: rgb(224, 203, 203);
+    padding-top: 20px; 
+}
+
+.historia {
+    background-color: rgb(250, 245, 244);
+}
+
+.servicos {
+    padding-top: 20px;
+
+}
+
+.bg footer{
+    background-color: aliceblue;
+    color: black;
+
+}
